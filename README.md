@@ -10,7 +10,7 @@ No estás comprando solo un simple objeto, estás adquiriendo la chispa de pasi�
 
 **Este es el principio fundamental de MarketPlace Laboratoria, una comunidad brillante donde la tecnología y el espíritu emprendedor se unen para crear algo maravilloso.**
 
-## ¿Por qué surge la idea? 💛
+## ¿Por qué surge la idea? 
 Conocí varias mujeres que hacían con sus propias manos productos para vender (tortas, tejidos, ilustraciones, entre otros), o que tenían emprendimientos en sus redes sociales. ¿Qué mejor forma que apoyarnos entre egresadas y no egresadas para impulsar el espíritu emprendedor de cada una?
 
 
@@ -37,5 +37,5 @@ Solucionando el problema..
 * El usuario debe ser capaz de crear una cuenta (registrarse).
 * El usuario debe ser capaz de ingresar a su cuenta (previamente generada) a partir de su correo electrónico y contraseña (login).
 
-
-
+![proto](img_readme/prototipo.jpg)
+[Ver prototipo - Link Figma 🔗](https://www.figma.com/file/n1HEt6rInVb9YUEl6ldMB1/Marketplace-Laboratoria?node-id=0%3A1&t=UwEFYAZCtWBzF9S6-1)
